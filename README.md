@@ -32,6 +32,14 @@ SURF在速度方面有了明显的提高（速度是SIFT的3倍）
 5.将4中得到的图像依次叠加，则得到最终的输出图像。
 
 <br><br>
-检测滑动放大手势：
+左图：
 <br><br>
-![Image text](https://github.com/hujinxinb/hand_gesture_detect/blob/master/img/1.jpg)
+![Image text](https://github.com/hujinxinb/SeamVideoCUDA_2_improves/blob/master/img/11.jpg)
+<br><br>
+右图：
+<br><br>
+![Image text](https://github.com/hujinxinb/SeamVideoCUDA_2_improves/blob/master/img/12.jpg)
+<br><br>
+拼接结果：
+<br><br>
+![Image text](https://github.com/hujinxinb/SeamVideoCUDA_2_improves/blob/master/img/13.jpg)
